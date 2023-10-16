@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Danyil, a JavaScript Developer specializing on frontend and backend development. 👨‍💻  🚀</div>  
+### <div align="center">I'm Danyil, a Full Stack Developer specializing on frontend and backend development. 👨‍💻  🚀</div>  
   
 
 - 🔭  Looking for a company that allows me to grow
